@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "exceljs": "^4.4.0",
+    "expess": "^0.0.1-security",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "googleapis": "^140.0.1",
+    "mongoose": "^8.4.1",
+    "mysql2": "^3.11.0",
+    "nodemailer": "^6.9.14",
+    "sequelize": "^6.37.3"
+  }
+}
